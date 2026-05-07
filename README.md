@@ -1,59 +1,51 @@
-# CALANgular
+# Calculadora Científica Angular (Estilo Casio)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.10.
+Uma réplica de uma calculadora científica premium, inspirada no design da clássica **Casio fx-991EX ClassWiz**, desenvolvida utilizando **Angular** e muito CSS moderno.
 
-## Development server
+## 🚀 Tecnologias e Ferramentas
 
-To start a local development server, run:
+- **Angular** (Componentes Standalone)
+- **TypeScript**
+- **SASS / CSS3** (Neumorfismo, CSS Grid, variáveis CSS e texturas)
+- **Math.js**: Para processamento e avaliação segura de expressões matemáticas complexas (como funções trigonométricas, raízes, expoentes, etc.).
 
+> 🤖 **Nota Especial**: Este projeto foi desenvolvido e programado em conjunto com **Inteligência Artificial**, utilizando o poderoso assistente de codificação **Antigravity** (movido pelo **Google Gemini**).
+
+## ✨ Funcionalidades
+
+- **Design Premium**: Interface hiper-realista com visor duplo e layout autêntico de botões divididos por seção (teclas de navegação, funções matemáticas e numéricas).
+- **Cálculo Avançado**: Suporte a expressões completas com precedência matemática correta, trigonometria (`sin`, `cos`, `tan`), logaritmos, funções inversas e potências.
+- **Responsivo**: Adaptado para se manter proporcional e acessível em dispositivos móveis.
+- **Acessibilidade por Teclado**: Suporte à digitação natural utilizando o teclado físico.
+
+## 📦 Como rodar o projeto localmente
+
+Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
+
+1. Faça o clone do repositório
 ```bash
-ng serve
+git clone [seu-repositorio-aqui]
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
+2. Entre no diretório do projeto
 ```bash
-ng generate component component-name
+cd CALANgular
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
+3. Instale as dependências
 ```bash
-ng generate --help
+npm install
 ```
 
-## Building
-
-To build the project run:
-
+4. Inicie o servidor de desenvolvimento
 ```bash
-ng build
+npm run start
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+5. Acesse `http://localhost:4200/` no seu navegador.
 
-## Running unit tests
+## 📸 Demonstração
+*(Você pode adicionar um screenshot ou GIF da calculadora rodando aqui depois!)*
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+Criado por **Pedro** com ajuda do **Antigravity + Gemini** ✨
