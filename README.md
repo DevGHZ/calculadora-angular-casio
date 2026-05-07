@@ -1,5 +1,5 @@
 # Calculadora Científica Angular (Estilo Casio)
-
+<img src="https://i.postimg.cc/wvQd0Mky/image.png" alt="Texto Alternativo">
 Uma réplica de uma calculadora científica premium, inspirada no design da clássica **Casio fx-991EX ClassWiz**, desenvolvida utilizando **Angular** e muito CSS moderno.
 
 ## 🚀 Tecnologias e Ferramentas
