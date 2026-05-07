@@ -17,7 +17,8 @@ Uma réplica de uma calculadora científica premium, inspirada no design da clá
 - **Cálculo Avançado**: Suporte a expressões completas com precedência matemática correta, trigonometria (`sin`, `cos`, `tan`), logaritmos, funções inversas e potências.
 - **Responsivo**: Adaptado para se manter proporcional e acessível em dispositivos móveis.
 - **Acessibilidade por Teclado**: Suporte à digitação natural utilizando o teclado físico.
-
+## Para Rodar A Calculadora
+- **Acesse:** https://devghz.github.io/calculadora-angular-casio/
 ## 📦 Como rodar o projeto localmente
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
