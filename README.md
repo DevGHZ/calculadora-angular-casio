@@ -24,12 +24,12 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 
 1. Faça o clone do repositório
 ```bash
-git clone [seu-repositorio-aqui]
+git clone https://github.com/DevGHZ/calculadora-angular-casio.git
 ```
 
 2. Entre no diretório do projeto
 ```bash
-cd CALANgular
+cd calculadora-angular-casio
 ```
 
 3. Instale as dependências
